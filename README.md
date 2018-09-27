@@ -1,2 +1,2 @@
 # teste
-Este é o repositório de datascience
+Este é o repositório de Data Science
